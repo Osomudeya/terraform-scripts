@@ -12,11 +12,11 @@ variable AMIS {
 }
 
 variable PRIV_KEY_PATH {
-  default = "vprofilekey"
+  default = "vproapp"
 }
 
 variable PUB_KEY_PATH {
-  default = "vprofilekey.pub"
+  default = "vproapp.pub"
 }
 
 variable USERNAME {
